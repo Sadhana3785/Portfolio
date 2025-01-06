@@ -7,7 +7,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🛠️ Projects
 - **SMART RAILWAY MANAGEMENT SYSTEM**:A Smart Railway Management System is a modern platform designed to streamline railway operations and enhance passenger convenience through advanced technologies. It enables online ticket booking, real-time train tracking, and instant updates on schedules or delays, ensuring a smooth travel experience. The system incorporates automated station management with digital displays, ticket kiosks, and robust security measures. Centralized data management ensures secure registration and efficient resource allocation, while predictive maintenance and emergency alerts prioritize safety. By emphasizing sustainability through eco-friendly technologies and digital processes, this system transforms railway operations into a more efficient, secure, and passenger-focused experience. 
-- 
+ 
 
 ## 🚀 Skills
 - C++, Python 
