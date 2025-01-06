@@ -6,8 +6,8 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **SMART RAILWAY MANAGEMENT SYSTEM**:A Smart Railway Management System is a modern platform designed to streamline railway operations and enhance passenger convenience through advanced technologies. It enables online ticket booking, real-time train tracking, and instant updates on schedules or delays, ensuring a smooth travel experience. The system incorporates automated station management with digital displays, ticket kiosks, and robust security measures. Centralized data management ensures secure registration and efficient resource allocation, while predictive maintenance and emergency alerts prioritize safety. By emphasizing sustainability through eco-friendly technologies and digital processes, this system transforms railway operations into a more efficient, secure, and passenger-focused experience. 
+- 
 
 ## 🚀 Skills
 - C++, Python 
@@ -16,7 +16,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/sadhana-jali-7896042a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Topic
 
